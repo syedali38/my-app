@@ -1,0 +1,14 @@
+https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/stable/openshift-client-linux-4.18.4.tar.gz
+
+https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/stable-4.12/openshift-client-linux.tar.gz
+https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/stable-4.12/openshift-install-linux.tar.gz
+
+https://github.com/syedali38/my-app/blob/main/pull-secret1
+
+
+fa:16:3e:57:be:d3, Primary IP: 10.10.10.104
+fa:16:3e:04:21:9a, Primary IP: 10.10.10.105,
+fa:16:3e:8e:38:94, Primary IP: 10.10.10.106
+fa:16:3e:a7:47:d6, Primary IP: 10.10.10.107
+fa:16:3e:c1:6f:85, Primary IP: 10.10.10.108
+fa:16:3e:f2:da:19, Primary IP: 10.10.10.109
